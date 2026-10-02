@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+
+# Variáveis de Ambiente
+.env
+.env.local
+
+# Arquivos de Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs e Editores
+.vscode/
+.idea/
+
+semana1_llm_basico/
+semana2_webhook_github/
+semana3_rag_pdf/
