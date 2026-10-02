@@ -1,4 +1,4 @@
-# Semana 4: Agente Assistente com Function Calling
+# Agente Assistente com Function Calling
 
 Agente de IA que **decide sozinho** quais ferramentas usar para responder suas perguntas. Ele consulta APIs em tempo real para buscar cotações e clima.
 

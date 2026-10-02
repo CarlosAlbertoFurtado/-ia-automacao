@@ -2,7 +2,7 @@
 
 Se um recrutador te perguntar: *"Como exatamente você implementou o Agente com Function Calling?"*, aqui está a resposta técnica, mastigada e pronta para você brilhar.
 
-Vamos dissecar o arquivo `agente.py` da Semana 4!
+Vamos dissecar o arquivo `agente.py`!
 
 ---
 
