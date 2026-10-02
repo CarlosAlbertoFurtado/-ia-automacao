@@ -1,12 +1,7 @@
-openai
 python-dotenv
-fastapi
-uvicorn
 httpx
 langchain
-langchain-community
-langchain-chroma
 langchain-google-genai
-pypdf
-chromadb
+langgraph
+langchain-core
 pydantic
